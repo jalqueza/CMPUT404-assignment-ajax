@@ -13,3 +13,9 @@ Contributors / Licensing
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
 
+References Used by Jerwyn Alqueza
+========================
+
+https://docs.python.org/3/library/json.html
+
+https://javascript.info/fetch
